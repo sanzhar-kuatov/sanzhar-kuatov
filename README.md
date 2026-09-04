@@ -40,7 +40,7 @@ Handled **200+ book scans in a single synchronization**.
 
 **Tech:** Software Integration · Networking · Databases · Hardware–Software Integration
 
-[Repository](https://github.com/sanzhar-kuatov/happy_birthday_sender)
+[Repository](https://github.com/sanzhar-kuatov/datastation_gui) · [Repository](https://youtu.be/Ltjs949a8hU?si=907fWNODqC4joiTG)
 
 ---
 
@@ -50,7 +50,7 @@ Built internal automation systems including automated employee birthday workflow
 
 **Tech:** Python · Databases · Telegram Bot API · Automation
 
-[Repository] · [Demo]
+[Repository](https://github.com/sanzhar-kuatov/happy_birthday_sender)
 
 ---
 
