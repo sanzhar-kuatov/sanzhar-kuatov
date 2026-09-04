@@ -40,7 +40,7 @@ Handled **200+ book scans in a single synchronization**.
 
 **Tech:** Software Integration · Networking · Databases · Hardware–Software Integration
 
-[Repository](https://github.com/sanzhar-kuatov/datastation_gui) · [Demo](https://youtu.be/Ltjs949a8hU?si=907fWNODqC4joiTG)
+[Repository](https://github.com/sanzhar-kuatov/datastation_gui) · [Live Demo](https://youtu.be/Ltjs949a8hU?si=907fWNODqC4joiTG)
 
 ---
 
