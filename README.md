@@ -18,17 +18,7 @@ Computer vision pipeline for detecting vehicle license plates and extracting pla
 
 **Tech:** Python · OpenCV · OCR
 
-[Live Demo] · [Repository]
-
----
-
-### 🎥 Real-Time Computer Vision
-
-Real-time video processing application featuring face detection, automatic blurring, and on-frame annotations.
-
-**Tech:** Python · OpenCV · Computer Vision
-
-[Demo] · [Repository]
+[Repository](https://github.com/sanzhar-kuatov/Car-Plate-Reader)
 
 ---
 
@@ -38,7 +28,7 @@ Trained a regression model with scikit-learn and deployed it as an interactive w
 
 **Tech:** Python · scikit-learn · Pandas · Flask
 
-[Live Demo] · [Repository]
+[Live Demo](https://car-price-prediction-beta.vercel.app/) · [Repository](https://github.com/sanzhar-kuatov/Car-Price-Prediction-)
 
 ---
 
@@ -50,7 +40,7 @@ Handled **200+ book scans in a single synchronization**.
 
 **Tech:** Software Integration · Networking · Databases · Hardware–Software Integration
 
-[Repository] · [Demo]
+[Repository](https://github.com/sanzhar-kuatov/happy_birthday_sender)
 
 ---
 
@@ -102,4 +92,4 @@ I'm currently interested in **AI/ML, Software Engineering, and AI Engineering in
 
 ## 📫 Connect With Me
 
-[Portfolio](YOUR_PORTFOLIO_LINK) · [LinkedIn](YOUR_LINKEDIN_LINK)
+[Portfolio](https://portfolio-phi-seven-47.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/sanzhar-kuatov/)
