@@ -28,7 +28,7 @@ Trained a regression model with scikit-learn and deployed it as an interactive w
 
 **Tech:** Python · scikit-learn · Pandas · Flask
 
-[Live Demo](https://car-price-prediction-beta.vercel.app/) · [Repository](https://github.com/sanzhar-kuatov/Car-Price-Prediction-)
+ [Repository](https://github.com/sanzhar-kuatov/Car-Price-Prediction-) · [Live Demo](https://car-price-prediction-beta.vercel.app/)
 
 ---
 
@@ -40,7 +40,7 @@ Handled **200+ book scans in a single synchronization**.
 
 **Tech:** Software Integration · Networking · Databases · Hardware–Software Integration
 
-[Repository](https://github.com/sanzhar-kuatov/datastation_gui) · [Repository](https://youtu.be/Ltjs949a8hU?si=907fWNODqC4joiTG)
+[Repository](https://github.com/sanzhar-kuatov/datastation_gui) · [Demo](https://youtu.be/Ltjs949a8hU?si=907fWNODqC4joiTG)
 
 ---
 
