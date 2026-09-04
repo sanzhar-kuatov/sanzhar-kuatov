@@ -1,4 +1,4 @@
-# Hi, I'm Sanzhar 👋
+# Hi, I'm Sanzhar 👋  [Portfolio](https://portfolio-phi-seven-47.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/sanzhar-kuatov/)
 
 ### Software Engineering Student · AI/ML & Software Development
 
